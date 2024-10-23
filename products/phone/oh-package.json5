@@ -1,0 +1,15 @@
+{
+  "name": "phone",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "@hplayer/base": "file:../../commons/base",
+    "@hplayer/home": "file:../../features/home",
+    "@hplayer/detail": "file:../../features/detail",
+    "@hplayer/player": "file:../../features/player"
+  }
+}
+
